@@ -34,7 +34,7 @@ a{
 .menu{
     height: 150vh;
     width: 100vw;
-    background: indigo;
+    background: #4b0082;
     position: fixed;
     top: 0;
     left: -110vw;
@@ -58,7 +58,7 @@ a{
     left: 0;
     right: 0;
     bottom: 0;
-    background-color: #ab058b 0.5;
+    background-color: #ab058b;
     display: none;
     z-index: 5;
 }
